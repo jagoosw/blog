@@ -1,0 +1,10 @@
+name = "Blog"
+uuid = "c6edb216-a61e-40f0-811f-24f611c2df99"
+authors = ["Jago Stong-Wright <jagoosw@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterCitations = "daee34ce-89f3-4625-b898-19384cb65244"
+Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
