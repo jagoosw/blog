@@ -50,12 +50,10 @@ end
 for file in files
     rm(file)
 end
-#=
+
 deploydocs(
-    repo = "github.com/OceanBioME/OceanBioME.jl",
-    versions = ["stable" => "v^", "dev" => "dev", "v#.#.#"],
+    repo = "github.com/jagoosw/blog",
     forcepush = true,
     push_preview = true,
     devbranch = "main"
 )
-=#
